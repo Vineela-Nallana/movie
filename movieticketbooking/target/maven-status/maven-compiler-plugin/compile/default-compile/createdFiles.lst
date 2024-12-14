@@ -1,0 +1,10 @@
+com\example\movieticketbooking\workflow\MovieTicketWorkflow.class
+com\example\movieticketbooking\config\TemporalConfig.class
+com\example\movieticketbooking\controller\TicketBookingController.class
+com\example\movieticketbooking\activities\MovieTicketActivitiesImpl.class
+com\example\movieticketbooking\repository\MovieTicketRepository.class
+com\example\movieticketbooking\activities\MovieTicketActivities.class
+com\example\movieticketbooking\model\MovieTicket.class
+com\example\movieticketbooking\MovieTicketBookingApplication.class
+com\example\movieticketbooking\service\MovieTicketService.class
+com\example\movieticketbooking\workflow\MovieTicketWorkflowImpl.class
